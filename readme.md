@@ -34,3 +34,5 @@ Data exploration was interested in the following:
 - Plot the distribution of customers of their first visited section versus following sections (treat all sections visited after the first as “following”)
 - Estimate the total revenue for a customer
 - Which is the most profitable section according to your data?
+
+author sabrina
